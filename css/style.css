@@ -8,6 +8,7 @@ body, html {
   box-sizing: border-box;
   background-size: cover;
   background-image: url("/images/white-wood.jpg");
+  background: linear-gradient()
 
 }
 
@@ -62,7 +63,4 @@ h4 {
   width: 303%;
 }
 
-.img {
-  border: solid grey 1px;
-  box-sizing: border-box;
-}
+
