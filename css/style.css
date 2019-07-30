@@ -34,6 +34,7 @@ h4 {
 }
 
 .indifferent {
+  position: fixed;
   border: 1px solid #c9c60e;
   box-shadow: -1px 1px #c9c60e, -2px 2px #c9c60e, -3px 3px #c9c60e, -4px 4px #c9c60e, -5px 5px #c9c60e;
   background-color: #FFFC7F;
