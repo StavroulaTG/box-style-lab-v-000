@@ -8,7 +8,7 @@ body, html {
   box-sizing: border-box;
   background-size: cover;
   background-image: url("/images/white-wood.jpg");
-  border: solid dark gray 1px;
+  border: solid darkgray 1px;
 }
 
 .container, h1 {
