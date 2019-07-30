@@ -46,7 +46,6 @@ h4 {
 }
 
 .column {
-  position: fixed;
   width: 30%;
   display: inline-block;
 }
